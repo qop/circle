@@ -1,0 +1,16 @@
+{
+  "name": "circle",
+  "main": "./lib/circle.js",
+  "version": "0.0.0",
+  "description": "some frequently used modules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modules",
+    "npm",
+    "node"
+  ],
+  "author": "zhongjian.zhou@dianping.com",
+  "license": "BSD"
+}
